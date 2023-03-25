@@ -1,4 +1,4 @@
 # Rock-Paper-Scissors-Game
-My version of the game "Rock-Paper-Scissors". You play versus a bot. Created and programmed with HTML, CSS and JavaScript on Visual Studio Code.
+The "Rock-Paper-Scissors" Game, created with HTML, CSS and programmed mostly with JavaScript on Visual Studio Code. You play against a bot/computer.
 
 [Game Link!]()
